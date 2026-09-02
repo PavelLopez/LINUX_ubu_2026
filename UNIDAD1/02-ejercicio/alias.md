@@ -1,3 +1,3 @@
-![Mi foto](Screenshot From 2026-08-12 23-34-01.png)
-![Mi foto](Screenshot From 2026-08-12 23-40-01.png)
-![Mi foto](Screenshot From 2026-08-13 01-46-45.png)
+![Mi foto1](01.png)
+![Mi foto2](02.png)
+![Mi foto3](03.png)
